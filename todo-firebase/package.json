@@ -12,7 +12,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "5.0.1",
-    "axios": ">=0.21.1"
+    "axios": ">=1.13.5"
   },
   "scripts": {
     "start": "react-scripts start",
